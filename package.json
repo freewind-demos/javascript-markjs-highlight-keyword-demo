@@ -4,5 +4,8 @@
   },
   "devDependencies": {
     "http-server": "0.11.1"
+  },
+  "dependencies": {
+    "mark.js": "8.11.1"
   }
 }

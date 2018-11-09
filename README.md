@@ -1,6 +1,9 @@
-Js Hello World Demo
-===================
+JavaScript mark.js Highlight Keyword Demo
+==========================================
 
-Open `index.html` in your browser.
+必须在http模式下才能正确生效。
 
-You will see "Hello, JS!" on the page.
+```
+npm install
+npm run demo
+```
